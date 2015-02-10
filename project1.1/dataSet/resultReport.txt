@@ -1,0 +1,17 @@
+1:Please upload the set of commands and/or your script used to complete this task on S3. Enter the full S3 link below. Verify your URL using S3 Link Checker before submission.
+s3://Siyu_Bucket/Project1/P1.1_Sequential_Analysis/project1.1_siyuchen_q1.zip
+2:How many lines (items) were originally present in the input file pagecounts-20140701-000000.gz
+6813227
+3:Before filtering, what was the total number of requests made to all of wikipedia (all subprojects, all elements, all languages) during the hour covered by the file pagecounts-20140701-000000.gz
+63276038
+
+4:How many lines emerged after applying all the filters?
+1856475
+
+5:What was the most popular article?
+Tetralogy_of_Fallot
+6:How many views did this article get?
+28293
+
+7:How long did it take to process this file? (This question is not graded)
+18.034s
